@@ -1,4 +1,4 @@
-# 🚀 Real-Time Fraud Detection System Using Machine Learning
+#  Real-Time Fraud Detection System Using Machine Learning
 
 > An end-to-end machine learning pipeline for real-time financial fraud detection using behavioral feature engineering and ensemble learning techniques.
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 Financial fraud remains one of the biggest challenges facing modern banking systems, resulting in billions of dollars in annual losses. Detecting fraudulent transactions accurately while minimizing false alarms is essential for protecting both financial institutions and customers.
 
@@ -24,7 +24,7 @@ Unlike many fraud detection implementations, this project explicitly identifies 
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The objectives of this project are to:
 
